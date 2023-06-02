@@ -32,8 +32,11 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+<<<<<<< HEAD
 
 
 # key ignore
 *.pub
 jenkins
+=======
+>>>>>>> 573ee4a5b2c59423a6cd7e5f8cddd32448059684
